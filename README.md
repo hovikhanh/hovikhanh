@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Vika 👋</h1>
+<h1 align="center">Hi, I'm ViKa 👋</h1>
 <h3 align="center">Offensive Security · AI Security Researcher · CTF Player</h3>
 
 <p align="center">
